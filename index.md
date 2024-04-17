@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://Slimold.github.io/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://Slimold.github.io/self_photo.jpg" class="floatpic" width="360" height="480">
 
 Here is **Zixian Ye (叶子贤)**.
 
