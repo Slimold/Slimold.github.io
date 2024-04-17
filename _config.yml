@@ -40,9 +40,10 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # For external links add external: true
 links:
   - title: Blogs
-    url: /blogs/
+    url: /
   - title: About Me
     url: /
+
   # - title: Teams
   #   url: /teams/
   # - title: Publications
@@ -87,4 +88,4 @@ disqus:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/12/10 by Hanlin Cai.
+# Latest update in 2024/4/17 by Zixian Ye.
