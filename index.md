@@ -14,10 +14,13 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-<!-- - **Sep 2024 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
+<!-- - **Sep 2024 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan)) -->
+<!-- - **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
 - **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
 - **June 2022 - Nov 2022:** Cambridge University (Intern) -->
+
+- **2021/09 - 2024/06:** 哈尔滨工业大学-土木工程/视觉测量-基于双目视觉公路边坡三维变形监测研究 (硕士)
+- **2017/09 - 2021/07:** 昆明理工大学-土木工程-框架结构 (本科)
 
 ---
 
