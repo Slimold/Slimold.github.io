@@ -24,7 +24,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ---
 
-## Research Interests
+<!-- ## Research Interests -->
 
 <!-- - Internet of Everything
 - Cyber-Physical System
@@ -36,7 +36,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ---
 
-## News and Updates
+<!-- ## News and Updates -->
 
 <!-- 
 - **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
