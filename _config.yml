@@ -14,16 +14,13 @@ owner:
   wechat: Slime_Mold
 
 google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
-
-
 # Links to include in top navigation
 # For external links add external: true
 links:
- - title: Blogs
-    url: /blogs/
   - title: About Me
     url: /
-
+ - title: Blogs
+    url: /blogs/
   # - title: Teams
   #   url: /teams/
   # - title: Publications
@@ -32,7 +29,6 @@ links:
   #   url: /awards/
   # - title: Hobbies
   #   url: /hobbies/
-
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
