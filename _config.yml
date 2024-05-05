@@ -7,11 +7,12 @@ url: https://slimold.github.io/
 # Owner/author information
 owner:
   name: Sean Ye 
-  avatar: slope.jpg
+  # avatar: slope.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: yez20181203@163.com
+
+  # email: yez20181203@163.com
   github: Slimold
-  wechat: Slime_Mold
+  # wechat: Slime_Mold
 
 google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
@@ -21,14 +22,14 @@ links:
     url: /
  - title: Blogs
     url: /blogs/
-  # - title: Teams
-  #   url: /teams/
-  # - title: Publications
-  #   url: /publications/
-  # - title: Awards
-  #   url: /awards/
-  # - title: Hobbies
-  #   url: /hobbies/
+  - title: Teams
+    url: /teams/
+  - title: Publications
+    url: /publications/
+  - title: Awards
+    url: /awards/
+  - title: Hobbies
+    url: /hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
